@@ -7,7 +7,7 @@ including purchase orders, vendors, categories, locations, and trends.
 
 ## 🚀 Dashboard Preview
 
-![Project-Cust-Trans](https://github.com/mohamedtohamy656-cmyk/)
+!![Project-Purchase-Inventory](https://github.com/mohamedtohamy656-cmyk/Purchase-Inventory/blob/main/PBIDesktop_oOYlePl4Uv.gif)
 ## 📌 Key KPIs
 
 - Total PO Amount
